@@ -1,0 +1,4 @@
+{
+    "MODULE.DropJournal.Name": "Drag-and-Drop Journal Entry",
+    "MODULE.DropJournal.Description": "Allows the GM to drag image files onto the canvas to automatically create a journal entry."
+}

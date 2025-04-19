@@ -1,0 +1,22 @@
+{
+    "name": "drop-journal",
+    "title": "Drag-and-Drop Journal Entry",
+    "description": "Allows the GM to drag image files from their desktop onto the canvas to create journal entries.",
+    "version": "0.1.0",
+    "author": "Your Name Here",
+    "esmodules": ["scripts/drop-journal.js"],
+    "minimumCoreVersion": "12",
+    "compatibleCoreVersion": "12",
+    "scripts": [],
+    "styles": [],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+      }
+    ],
+    "manifest": "https://your-repo-url.com/module.json",
+    "download": "https://your-repo-url.com/download.zip"
+  }
+  
