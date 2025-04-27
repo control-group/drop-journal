@@ -1,23 +1,25 @@
 {
-  "id": "drop=journal",  
   "name": "drop-journal",
-    "title": "Drag-and-Drop Journal Entry",
-    "description": "Allows the GM to drag image files from their desktop onto the canvas to create journal entries.",
-    "version": "0.1.0",
-    "author": "Control Group",
-    "esmodules": ["scripts/drop-journal.js"],
-    "minimumCoreVersion": "12",
-    "compatibleCoreVersion": "12",
-    "scripts": [],
-    "styles": [],
-    "languages": [
-      {
-        "lang": "en",
-        "name": "English",
-        "path": "lang/en.json"
-      }
-    ],
-    "manifest": "https://github.com/control-group/drop-journal/module.json",
-    "download": "https://github.com/control-group/drop-journal/archive/refs/heads/main.zip"
-  }
-  
+  "title": "Drag-and-Drop Journal Entry",
+  "description": "Allows the GM to drag image files from their desktop onto the canvas to create journal entries.",
+  "version": "0.1.0",
+  "author": "Control Group",
+  "esmodules": [
+    "scripts/drop-journal.js"
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "id": "drop-journal",
+  "url": "https://github.com/control-group/drop-journal",
+  "manifest": "https://github.com/control-group/drop-journal/blob/main/module.json",
+  "download": "https://github.com/control-group/drop-journal/archive/refs/heads/main.zip",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
